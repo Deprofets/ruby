@@ -68,10 +68,6 @@ Lint/EmptyInterpolation:
 Lint/EmptyWhen:
   Enabled: false
 
-Lint/EndInMethod:
-  Description: END blocks should not be placed inside method definitions.
-  Enabled: false
-
 Lint/EnsureReturn:
   Description: Do not use return in an ensure block.
   StyleGuide: https://github.com/rubocop-hq/ruby-style-guide#no-return-ensure
